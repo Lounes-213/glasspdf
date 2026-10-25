@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Red '2026' text, centered horizontally, positioned in the top-middle close to center (y: 32-38) with no background frame -->
+    <path
+        android:strokeColor="#FF3B30"
+        android:strokeWidth="1.8"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="
+            M 42,33 C 42,31.5 45.5,31.5 45.5,33 C 45.5,34.5 42,36 42,37.5 L 46,37.5
+            M 48.5,33 C 48.5,31.5 51.5,31.5 51.5,33 L 51.5,37.5 C 51.5,39 48.5,39 48.5,37.5 Z
+            M 54,33 C 54,31.5 57.5,31.5 57.5,33 C 57.5,34.5 54,36 54,37.5 L 58,37.5
+            M 63.5,32.5 C 62,32.5 60.5,34 60.5,35.5 C 60.5,37 62,38.5 63.5,38.5 C 64.5,38.5 64.5,37 64.5,36 C 64.5,35 63.5,35 60.5,35.5
+        " />
+</vector>

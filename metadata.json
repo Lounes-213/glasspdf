@@ -1,0 +1,6 @@
+{
+  "name": "GlassPDF2026",
+  "description": "iOS 17 Glassmorphic style PDF Converter, Merger, Splitter & Editor with multi-language support and optimized local processing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
